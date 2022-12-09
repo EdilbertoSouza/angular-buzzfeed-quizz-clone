@@ -10,19 +10,24 @@
   </div>
 
   <div *ngIf=!finished class="quizz_options">
-
-    <button
-      *ngFor="let option of questionSelected.options; let i = index"
+    <button *ngFor="let option of questionSelected.options; let i = index"
       (click)="playerChoose(option.alias)"
-      class="btn-option"
-    >
+      class="btn-option">
       {{option.name}}
     </button>
-
   </div>
 
   <div *ngIf=finished class="quizz_results">
     <h1>O Seu resultado é:</h1>
+    <br/>
     <p>{{answerSelected}}</p>
+    <br/>
+    <br/>
+    <br/>
+    <button (click)="nextQuizz()"
+      class="btn-option">
+      Próximo Quizz
+    </button>
   </div>
+
 </div>

@@ -1,0 +1,1084 @@
+[
+  {
+    "title": "Você seria um heroi ou vilão ?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual super poder você escolheria ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Raios-Lasers",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Voar",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Explodir coisas",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "Curar feridas",
+            "alias": "B"
+          },
+          {
+            "id": 5,
+            "name": "Soltar fogo pelas mãos",
+            "alias": "A"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Quem você salvaria primeiro ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Crianças",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Idosos",
+            "alias": "A"
+          },
+          {
+            "id": 3,
+            "name": "Não saberia escolher",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Qual a sua maior preocupação ao enfrentar outro super ser ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Não destruir prédios",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Socar a cara do inimigo",
+            "alias": "A"
+          },
+          {
+            "id": 3,
+            "name": "Não sujar meu traje",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "Não deixar ninguém se ferir",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual o seu maior foco ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Ficar rico com poderes",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Salvar a cidade",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Qual o seu apelido de super ser ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "O Terrível",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Amigo(a) da vizinhança",
+            "alias": "B"
+          }
+        ]
+      }
+    ],
+    "results": {
+      "A": "Que triste: você muito provavelmente seria um super vilão!",
+      "B": "Parabéns: Você muito provavelmente seria um super herói!"
+    }
+  },
+  {
+    "title": "Como você está em conhecimentos gerais ?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual a montanha mais alta do Brasil ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Pico da Bandeira",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Pico da Neblina",
+            "alias": "A"
+          },
+          {
+            "id": 3,
+            "name": "Pico Paraná",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Monte Roraima",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Quem pintou a obra de arte: Noite estrelada ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Pablo Picasso",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Leonardo da Vinci",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Van Gogh",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "Michelangelo",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Qual o nome da namorada do marinheiro Popaye ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Betty Boop",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Pocahontas",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Mabel Pines",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Olivia Palito",
+            "alias": "A"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual o continente mais populoso do mundo ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Ásia",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "África",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "América",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Europa",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Quem é o autor do romance: Vidas Secas ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Lima Barreto",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Aluísio Azevedo",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Graciliano Ramos",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "Jorge Amado",
+            "alias": "B"
+          }
+        ]
+      }
+    ],
+    "results": {
+      "A": "Parabéns: você está bem em conhecimentos gerais!",
+      "B": "Que pena: você precisa melhorar em conhecimentos gerais!"
+    }
+  },
+  {
+    "title": "Como você está em Língua Portuguesa ?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual o coletivo de papel ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Resma",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Réstia",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Ramo",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Súcia",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual o significado de pachorrento ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Nervoso",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Avarento",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Ciumento",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Tranquilo",
+            "alias": "A"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Qual das seguinte palavras está escrita corretamente ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Chícara",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Jacoso",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Prognóstico",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "Loquás",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual das seguinte palavras está com o plural correto ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Degrais",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Juvenis",
+            "alias": "A"
+          },
+          {
+            "id": 3,
+            "name": "Coraçãos",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Pãos",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Qual é o antônimo de altruísta ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Egoísta",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Fraternal",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Comunicativo",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Simpático",
+            "alias": "B"
+          }
+        ]
+      }
+    ],
+    "results": {
+      "A": "Parabéns: você está bem em língua portuguesa!",
+      "B": "Que pena: você precisa melhorar em língua portuguesa!"
+    }
+  },
+  {
+    "title": "Como você está em Geografia ?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual a capital do Brasil ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Rio de Janeiro",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Salvador",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Brasília",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "São Paulo",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual a capital da Espanha ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Barcelona",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Madri",
+            "alias": "A"
+          },
+          {
+            "id": 3,
+            "name": "Valência",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Liboa",
+            "alias": "A"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Quantos estados compõem a região norte do Brasil ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Cinco",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Seis",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Sete",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "Nove",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Em qual dos seguintes continentes está localizada a Índia ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Ásia",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "África",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Europa",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "América Central",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Em qual das seguintes cidades está localizado o ponto turístico: Arco do Triunfo ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Roma",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Madri",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Berlim",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Paris",
+            "alias": "A"
+          }
+        ]
+      }
+    ],
+    "results": {
+      "A": "Parabéns: você está bem em geografia!",
+      "B": "Que pena: você precisa melhorar em geografia!"
+    }
+  },
+  {
+    "title": "Como você está em História ?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Em qual data foi proclamada a independência do Brasil ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "7 de setembro de 1722",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "7 de setembro de 1822",
+            "alias": "A"
+          },
+          {
+            "id": 3,
+            "name": "7 de setembro de 1922",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "15 de outubro de 1822",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Quem foi o primeiro presidente do Brasil ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Deodoro da Fonseca",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Floriano Peixoto",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Prudente de Morais",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Castro Alves",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Quanto tempo durou a monarquia no Brasil ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "201 anos",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "92 anos",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "55 anos",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "67 anos",
+            "alias": "A"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual foi o nome do conflito armado entre Argentina e Reino Unido ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Guerra das Maldivas",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Guerra do Golfo",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Guerra das Malvinas",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "Guerra do Suez",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Qual foi o ano do descobrimento dos Estados Unidos ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "1400",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "1492",
+            "alias": "A"
+          },
+          {
+            "id": 3,
+            "name": "1500",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "1521",
+            "alias": "B"
+          }
+        ]
+      }
+    ],
+    "results": {
+      "A": "Parabéns: você está bem em história!",
+      "B": "Que pena: você precisa melhorar em história!"
+    }
+  },
+  {
+    "title": "Como você está em Cinema ?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual o nome do ator protagonista do filme: Asas Indomáveis ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Brad Pitt",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Tom Holland",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Gerard Butler",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Tom Cruise",
+            "alias": "A"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual dos seguintes filmes o ator Robert Doney Jr. não protagonizou ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Colateral",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Homem de Ferro",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Sherlock Holmes",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "O Juiz",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Qual o nome da atriz que interpreta a Mulher Maravilha ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Sandra Bullock",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Angelina Jolie",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Charlize Theron",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Gal Gadot",
+            "alias": "A"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual desse vilões não faz parte dos adversários do Batman ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Coringa",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Charada",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Zoom",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "Pinguim",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Qual dos filmes abaixo não é do gênnero comédia ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "O Mentiroso",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Rambo",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "As branquelas",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "A noite do jogo",
+            "alias": "B"
+          }
+        ]
+      }
+    ],
+    "results": {
+      "A": "Parabéns: você está bem em cinema!",
+      "B": "Que pena: você precisa melhorar em cinema!"
+    }
+  },
+  {
+    "title": "Como você está em Biologia ?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual dos animais abaixo é o mais rápido ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Girafa",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Elefante",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Porco",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Cobra",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual dos animais abaixo, em média, vive mais ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Rinoceronte",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Coelho",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Girafa",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Chimpanzé",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Qual dos animais a seguir não é um felino ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Leão",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Tigre",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Lobo",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "Leopardo",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Quanto tempo uma lesma pode se recolher na sua concha pra fugir de um tempo ruim ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Até 3 dias",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Até 3 semanas",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Até 3 meses",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Até 3 anos",
+            "alias": "A"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Quanto tempo os Coalas dormem por dia ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Duas horas",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Oito horas",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Vinte e duas horas",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "Dez horas",
+            "alias": "B"
+          }
+        ]
+      }
+    ],
+    "results": {
+      "A": "Parabéns: você está bem em biologia!",
+      "B": "Que pena: você precisa melhorar em biologia!"
+    }
+  },
+  {
+    "title": "Como você está em Inglês ?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual das saudações abaixo é adequada para o início do dia ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Good Afternoon",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Good Evening",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Good Morning",
+            "alias": "A"
+          },
+          {
+            "id": 4,
+            "name": "Good Night",
+            "alias": "B"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "O que está errado na frase a seguir? 'He were doing the exercises' ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "the",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "exercises",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "doing",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "were",
+            "alias": "A"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Qual das frases a seguir está INCORRETA ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "He was doing the exercises",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Told is the past of Tell",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "You mustn't overpass this line",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "I have a sore troat",
+            "alias": "A"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Uma pessoa comentou que quando falamos, por exemplo: 'I wish he would clear the bedroom' significa que nós não podemos controlar, no caso, o 'he'.",
+        "options": [
+          {
+            "id": 1,
+            "name": "Falso",
+            "alias": "B"
+          },
+          {
+            "id": 2,
+            "name": "Verdadeiro",
+            "alias": "A"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "O que significa 'I wonder...' ?",
+        "options": [
+          {
+            "id": 1,
+            "name": "Eu gostaria de saber",
+            "alias": "A"
+          },
+          {
+            "id": 2,
+            "name": "Eu desejo",
+            "alias": "B"
+          },
+          {
+            "id": 3,
+            "name": "Eu prefiro",
+            "alias": "B"
+          },
+          {
+            "id": 4,
+            "name": "Eu quero",
+            "alias": "B"
+          }
+        ]
+      }
+    ],
+    "results": {
+      "A": "Parabéns: você está bem em inglês!",
+      "B": "Que pena: você precisa melhorar em inglês!"
+    }
+  }
+]
