@@ -5,7 +5,7 @@ Olá! Seja bem vindo(a) ao meu projeto Angular Buzz Feed. Esse projeto foi desen
 Para isso, foi alterado o projeto e acrescentado a lógica para trabalhar com uma lista de Quizz, ao invés de apenas um.
 
 ## Link do Projeto
-https://edilberto-souza-angular-buzz-feed.netlify.app/
+https://edilberto-souza-angular-buzzfeed.netlify.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
